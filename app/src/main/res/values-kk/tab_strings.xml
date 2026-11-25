@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- losve-tab: планшетке арналған сенсорлық интерфейс -->
+    <string name="menu_rename_app">Атауын өзгерту</string>
+    <string name="menu_save_name">Атауды сақтау</string>
+    <string name="tab_performance">Өнімділік</string>
+    <string name="tab_video_cap">Бейне: 1080p / 30 кадр/с / SDR</string>
+    <string name="tab_auto_bitrate">Битрейтті авто төмендету</string>
+    <string name="tab_glass">Күңгірт шыны</string>
+    <string name="tab_glass_high">Жоғары (екі қабат)</string>
+    <string name="tab_glass_low">Төмен (бір қабат)</string>
+    <string name="tab_glass_off">Өшірулі (бір түсті)</string>
+    <string name="tab_low_animation">Анимацияны азайту</string>
+    <string name="tab_page_title">Планшетте реттеу</string>
+    <string name="tab_page_body">Реттеу бетін осы жерде ашыңыз: қолданбалар мен қалталардың реті, фото мен бейне, белгішелер, ауа райы қаласы. Төменгі мекенжай осы желідегі басқа құрылғыға да жарайды.</string>
+    <string name="tab_page_offline">Реттеу беті іске қосылмады. «Жекелендіруді» қайта ашыңыз.</string>
+    <string name="tab_page_open">Реттеуді ашу</string>
+</resources>

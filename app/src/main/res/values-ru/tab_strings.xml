@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- losve-tab: сенсорный интерфейс для планшета -->
+    <string name="menu_rename_app">Переименовать</string>
+    <string name="menu_save_name">Сохранить имя</string>
+    <string name="tab_performance">Производительность</string>
+    <string name="tab_video_cap">Видео: 1080p / 30 кадр/с / SDR</string>
+    <string name="tab_auto_bitrate">Авт. снижение битрейта</string>
+    <string name="tab_glass">Матовое стекло</string>
+    <string name="tab_glass_high">Высокое (два слоя)</string>
+    <string name="tab_glass_low">Низкое (один слой)</string>
+    <string name="tab_glass_off">Выкл. (сплошной цвет)</string>
+    <string name="tab_low_animation">Меньше анимации</string>
+    <string name="tab_page_title">Настройка на планшете</string>
+    <string name="tab_page_body">Откройте страницу настройки прямо здесь: порядок приложений и папок, фото и видео, значки, город погоды. Адрес ниже подойдёт и другому устройству в этой сети.</string>
+    <string name="tab_page_offline">Не удалось запустить страницу настройки. Откройте «Персонализация» снова.</string>
+    <string name="tab_page_open">Открыть настройку</string>
+</resources>

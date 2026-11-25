@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- losve-tab：平板触屏界面 -->
+    <string name="menu_rename_app">改名</string>
+    <string name="menu_save_name">保存名称</string>
+    <string name="tab_page_title">在平板上整理</string>
+    <string name="tab_page_body">点下面的按钮，直接在本机打开整理页：排列应用和文件夹、发送照片和视频、更换图标、设置天气城市。同一网络下的其他设备也可以用下面的地址打开。</string>
+    <string name="tab_page_offline">整理页未能启动，请重新打开个性化再试。</string>
+    <string name="tab_page_open">打开整理设置</string>
+    <string name="tab_performance">性能</string>
+    <string name="tab_video_cap">视频：1080P / 30fps / 关闭 HDR</string>
+    <string name="tab_auto_bitrate">自动降低码率</string>
+    <string name="tab_glass">毛玻璃虚化</string>
+    <string name="tab_glass_high">高（双层虚化）</string>
+    <string name="tab_glass_low">低（单层）</string>
+    <string name="tab_glass_off">关闭（纯色）</string>
+    <string name="tab_low_animation">降低动画</string>
+</resources>

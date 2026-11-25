@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- losve-tab: tablet touch UI -->
+    <string name="menu_rename_app">Rename</string>
+    <string name="menu_save_name">Save name</string>
+    <string name="tab_page_title">Arrange on this tablet</string>
+    <string name="tab_page_body">Open the arrange page right here to sort apps and folders, send photos and videos, change icons and set the weather city. The address below also works on another device on this network.</string>
+    <string name="tab_page_offline">The arrange page could not start. Reopen Personalize to try again.</string>
+    <string name="tab_page_open">Open arrange page</string>
+    <string name="tab_performance">Performance</string>
+    <string name="tab_video_cap">Video: 1080p / 30 fps / SDR</string>
+    <string name="tab_auto_bitrate">Auto lower bitrate</string>
+    <string name="tab_glass">Frosted glass</string>
+    <string name="tab_glass_high">High (two-layer blur)</string>
+    <string name="tab_glass_low">Low (single layer)</string>
+    <string name="tab_glass_off">Off (solid)</string>
+    <string name="tab_low_animation">Reduce animations</string>
+</resources>
